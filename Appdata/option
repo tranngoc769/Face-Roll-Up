@@ -1,0 +1,5 @@
+*font: Consolas 14
+*Label*font: Consolas 14
+*Entry*background: white
+*foreground: black
+*Listbox*foreground: RoyalBlue
